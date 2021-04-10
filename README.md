@@ -5,6 +5,7 @@ Fetches the latest firmware from Samsung using SamLoader, then extracts propriet
 ## Requirements
 
 ### LineageOS device tree
+You need the LineageOS device tree in order to extract the blobs
 ### SamLoader by nlscc (https://github.com/nlscc)
 Install via pip:
 
