@@ -7,6 +7,7 @@ Fetches the latest firmware from Samsung using SamLoader, then extracts propriet
 ### LineageOS device tree
 ### SamLoader by nlscc (https://github.com/nlscc)
 Install via pip:
+
 `pip3 install git+https://github.com/nlscc/samloader.git`
 ### simg2img
 Available on default repos in Debian 10
